@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_proxima_room_gml",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_proxima_room_gml",
+  "parent":{
+    "name":"Script",
+    "path":"folders/Script.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
