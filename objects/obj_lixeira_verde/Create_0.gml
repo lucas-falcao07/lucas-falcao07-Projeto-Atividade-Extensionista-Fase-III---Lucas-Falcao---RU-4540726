@@ -1,0 +1,1 @@
+tipo_correto = "vidro";
